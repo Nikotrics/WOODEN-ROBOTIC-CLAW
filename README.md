@@ -1,4 +1,4 @@
-# WOODEN CLAW HAND WITH SYRINGES, NUTS, AND BOLTS
+# WOODEN ROBOTIC CLAW WITH SYRINGES
 
 ## Description
 A mechanical robotic claw made from wood, syringes, nuts, and bolts.  
