@@ -1,13 +1,13 @@
-# WOODEN ROBOTIC HAND WITH SYRINGES, NUTS, AND BOLTS
+# WOODEN CLAW HAND WITH SYRINGES, NUTS, AND BOLTS
 
 ## Description
-A mechanical robotic hand made from wood, syringes, nuts, and bolts.  
-Demonstrates **hydraulic motion** and basic finger movements using syringes as actuators.
+A mechanical robotic claw made from wood, syringes, nuts, and bolts.  
+Demonstrates **hydraulic motion** and movements using syringes on fingers as actuators.
 
 ## How It Works
 - Each finger is connected to a syringe through plastic tubing.  
 - Pushing or pulling the syringe moves the corresponding movement.  
-- The hand can perform basic grasping motions.
+- The claw can perform basic grasping motions.
 
 ## Components
 - Wooden frame  
@@ -17,9 +17,8 @@ Demonstrates **hydraulic motion** and basic finger movements using syringes as a
 
 ## Applications
 - Educational robotics and hydraulics learning  
-- Prototype for prosthetic hand concepts  
 - Science fair demonstrations  
-- DIY robotics projects
+- DIY robotic games
 
 ## Images / Demo
 - Video is in folder showing it's action
