@@ -34,3 +34,6 @@ Demonstrates **hydraulic motion** and movements using syringes on fingers as act
 ## © 2025 Humeez Qureshi  
 All images & videos in this repository are protected.  
 No reuse, redistribution, or modification without permission.
+
+If you like this project, give it a ⭐
+Follow for more electrical & electronics projects!
