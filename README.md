@@ -32,5 +32,5 @@ Demonstrates **hydraulic motion** and movements using syringes on fingers as act
 1. Video
 
 ## © 2025 Humeez Qureshi  
-All images in this repository are protected.  
+All images & videos in this repository are protected.  
 No reuse, redistribution, or modification without permission.
