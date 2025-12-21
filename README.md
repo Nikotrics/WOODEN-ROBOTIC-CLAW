@@ -1,5 +1,10 @@
 # WOODEN ROBOTIC CLAW WITH SYRINGES
 
+![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
+![Wooden](https://img.shields.io/badge/Wooden-555555)
+![Mini Project](https://img.shields.io/badge/Level-Mini_Project-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## Description
 A mechanical robotic claw made from wood, syringes, nuts, and bolts.  
 Demonstrates **hydraulic motion** and movements using syringes on fingers as actuators.
